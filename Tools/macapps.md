@@ -8,6 +8,7 @@
 
 ![Alt text](https://github.com/vivian8725118/vivian-blogs/blob/master/imgs/iterm.png?raw=true)
 
+
 敲命令能缺了它？
 
 ## [oh my zsh](http://ohmyz.sh/)
